@@ -1,0 +1,7 @@
+#la carpeta .gitignore va a permitir que GIT, no de seguimiento a ciertos archivos.
+#La carpeta de node_modules es la instalación de todos los paquetes.
+#Se crean variables de entorno con un archivo .env y ahí colocamos contraseñas, cadenas de conexión y cosas que se van a necesitar en el backend que no vamos a subri en el repo.
+
+
+node_modules
+.env 
